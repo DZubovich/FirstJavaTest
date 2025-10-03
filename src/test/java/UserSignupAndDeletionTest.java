@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 import java.time.Duration;
 
-public class UserSignupAndDeletion {
+public class UserSignupAndDeletionTest {
 
     @Test
     public void testRegisterUser(){
